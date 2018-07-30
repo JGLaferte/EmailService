@@ -1,0 +1,14 @@
+C:\Project\EmailService\bin\Debug\netcoreapp2.1\EmailService.deps.json
+C:\Project\EmailService\bin\Debug\netcoreapp2.1\EmailService.runtimeconfig.json
+C:\Project\EmailService\bin\Debug\netcoreapp2.1\EmailService.runtimeconfig.dev.json
+C:\Project\EmailService\bin\Debug\netcoreapp2.1\EmailService.dll
+C:\Project\EmailService\obj\Debug\netcoreapp2.1\EmailService.csproj.CoreCompileInputs.cache
+C:\Project\EmailService\obj\Debug\netcoreapp2.1\EmailService.RazorAssemblyInfo.cache
+C:\Project\EmailService\obj\Debug\netcoreapp2.1\EmailService.RazorAssemblyInfo.cs
+C:\Project\EmailService\obj\Debug\netcoreapp2.1\EmailService.AssemblyInfoInputs.cache
+C:\Project\EmailService\obj\Debug\netcoreapp2.1\EmailService.AssemblyInfo.cs
+C:\Project\EmailService\obj\Debug\netcoreapp2.1\EmailService.RazorTargetAssemblyInfo.cache
+C:\Project\EmailService\bin\Debug\netcoreapp2.1\EmailService.pdb
+C:\Project\EmailService\obj\Debug\netcoreapp2.1\EmailService.dll
+C:\Project\EmailService\obj\Debug\netcoreapp2.1\EmailService.pdb
+C:\Project\EmailService\obj\Debug\netcoreapp2.1\EmailService.csprojAssemblyReference.cache
